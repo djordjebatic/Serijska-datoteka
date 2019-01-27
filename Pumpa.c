@@ -379,7 +379,7 @@ void SekvencijalnaDatoteka(char *naziv) {
                     fwrite(&blok, sizeof(Blok),1,f);
                     fwrite(&blok2, sizeof(Blok), 1, f);
                     fclose(f);
-                    printf("\Sekvencijalizacija uspesnan--------------------\n");
+                    printf("\nSekvencijalizacija uspesnan--------------------\n");
                     stop = 1;
                 }
             }while(stop!=1);
