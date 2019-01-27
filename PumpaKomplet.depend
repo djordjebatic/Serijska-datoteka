@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548534981 source:c:\users\djordje\desktop\zatvorenici\pumpakomplet\main.c
+	"Pumpa.h"
+
+1548534362 c:\users\djordje\desktop\zatvorenici\pumpakomplet\pumpa.h
+	<string.h>
+	<stdio.h>
+
+1548537543 source:c:\users\djordje\desktop\zatvorenici\pumpakomplet\pumpa.c
+	"Pumpa.h"
+
